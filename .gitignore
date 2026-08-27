@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.qa/
+.hero/
+.grid-*.jpg
+.DS_Store
+Thumbs.db

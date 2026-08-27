@@ -1,0 +1,79 @@
+{
+  "battery-storage": {
+    "attribution_required": false,
+    "author": "unattributed (CC0)",
+    "file": "battery-storage.jpg",
+    "licence": "CC0 1.0",
+    "source": "Openverse (CC0) - cropped to remove third-party branding"
+  },
+  "commercial-solar": {
+    "attribution_required": true,
+    "author": "Asurnipal",
+    "file": "commercial-solar.jpg",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3AAltach-Veranstaltungszentrum%20KOM-photovoltaic%20system-01ASD.jpg"
+  },
+  "engineer-inspect": {
+    "attribution_required": false,
+    "author": "U.S. Army Corps of Engineers Savannah District",
+    "file": "engineer-inspect.jpg",
+    "licence": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File%3ABattle%20Command%20Training%20Center%20%288047335675%29.jpg"
+  },
+  "family-home": {
+    "attribution_required": true,
+    "author": "UNKNOWN - must be confirmed or image replaced before launch",
+    "file": "family-home.jpg",
+    "licence": "UNRESOLVED",
+    "source": "Wikimedia Commons (exact source file not recovered)"
+  },
+  "hero-home": {
+    "attribution_required": true,
+    "author": "Asurnipal",
+    "file": "hero-home.jpg",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3ADornbirn-Montfortstrasse%2021-Shed%204-01ASD.jpg"
+  },
+  "installer-team": {
+    "attribution_required": false,
+    "author": "Supplied by Nova Solar Solutions",
+    "file": "installer-team.jpg",
+    "licence": "Client supplied",
+    "source": "Provided by the client"
+  },
+  "inverter": {
+    "attribution_required": true,
+    "author": "Asurnipal",
+    "file": "inverter.jpg",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3ADornbirn-Forachstrasse%2074-Subconstruction%20photovoltaic-08ASD.jpg"
+  },
+  "panel-closeup": {
+    "attribution_required": false,
+    "author": "unattributed (CC0)",
+    "file": "panel-closeup.jpg",
+    "licence": "CC0 1.0",
+    "source": "Openverse (CC0)"
+  },
+  "residential-roof": {
+    "attribution_required": true,
+    "author": "UNKNOWN - must be confirmed or image replaced before launch",
+    "file": "residential-roof.jpg",
+    "licence": "UNRESOLVED",
+    "source": "Wikimedia Commons (exact source file not recovered)"
+  },
+  "solar-farm": {
+    "attribution_required": true,
+    "author": "Molgreen",
+    "file": "solar-farm.jpg",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3A20230520%20xl%20094457508%20Freifl%C3%A4chen%20Solaranlage%20bei%20Rheda-Wiedenbr%C3%BCck.jpg"
+  },
+  "solar-homes-program": {
+    "attribution_required": false,
+    "author": "Supplied by Nova Solar Solutions",
+    "file": "solar-homes-program.jpg",
+    "licence": "Client supplied",
+    "source": "Provided by the client"
+  }
+}
