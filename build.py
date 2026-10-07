@@ -174,7 +174,7 @@ def footer():
     """Homepage-only footer. Column names are shown but inert - see header()."""
     nav_names = "".join('<li><span class="footer__name">%s</span></li>' % l for h, l in NAV[1:5])
     svc_names = "".join('<li><span class="footer__name">%s</span></li>' % l for l in [
-        "Residential Solar", "Commercial Solar", "Battery Storage",
+        "Residential Solar", "Commercial Solar", "Battery Storage", "Reverse Cycle Air Conditioning (VEU)",
         "Maintenance &amp; Repairs", "Rebates &amp; Incentives"])
     legal_names = "".join('<li><span class="footer__name">%s</span></li>' % l for l in [
         "Privacy Policy", "Terms of Service", "Contact"])
